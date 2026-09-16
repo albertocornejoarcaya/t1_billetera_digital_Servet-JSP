@@ -1,8 +1,8 @@
-*Billetera Digital*
+## Billetera Digital
 
 Aplicación web desarrollada como parte del T1 del curso Soluciones Web y Aplicaciones Distribuidas. El proyecto implementa una billetera digital utilizando Java, Servlets, JSP, Jakarta y Bootstrap
 
-*Descripción*
+## Descripción
 La aplicación permite administrar una billetera digital mediante:
 
     - Visualización del saldo actual.
@@ -17,7 +17,7 @@ La aplicación permite administrar una billetera digital mediante:
 
 La información se mantiene en memoria durante la ejecución de la aplicación.
 
-*Tecnologías utilizadas*
+## Tecnologías utilizadas
     - Java 21
     - Jakarta Servlet 6.0
     - JSP
@@ -27,11 +27,7 @@ La información se mantiene en memoria durante la ejecución de la aplicación.
     - Bootstrap 5
     - Visual Studio Code
 
-
-    
-
-
-*Listado de desarrolladores*
+## Equipo de desarrolladores
 1. Cornejo Arcaya Luis Alberto 	N00255638 
 2. Gonzales Aguirre Ricardo Fabian 	N00225627 
 3. Huallpa Atoccsa Irineo 	N00209202 
